@@ -1,4 +1,4 @@
-package game;
+﻿package game;
 
 public class Barbarian extends Character {
 
@@ -10,7 +10,7 @@ public class Barbarian extends Character {
 	public void display() {
 	// TODO Auto-generated method stub
 
-		System.out.println("Modificación del código por el usuario 1 hecha!");
+		System.out.println("Modificación del código por el usuario 1.0 hecha!");
 		
 	}
 }
